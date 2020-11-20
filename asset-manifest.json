@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/memorygame/static/css/main.e94afe4f.chunk.css",
+    "main.js": "/memorygame/static/js/main.5cafe3c7.chunk.js",
+    "main.js.map": "/memorygame/static/js/main.5cafe3c7.chunk.js.map",
+    "runtime-main.js": "/memorygame/static/js/runtime-main.2a64c027.js",
+    "runtime-main.js.map": "/memorygame/static/js/runtime-main.2a64c027.js.map",
+    "static/js/2.963b37c3.chunk.js": "/memorygame/static/js/2.963b37c3.chunk.js",
+    "static/js/2.963b37c3.chunk.js.map": "/memorygame/static/js/2.963b37c3.chunk.js.map",
+    "static/js/3.9d6cf8e4.chunk.js": "/memorygame/static/js/3.9d6cf8e4.chunk.js",
+    "static/js/3.9d6cf8e4.chunk.js.map": "/memorygame/static/js/3.9d6cf8e4.chunk.js.map",
+    "index.html": "/memorygame/index.html",
+    "static/css/main.e94afe4f.chunk.css.map": "/memorygame/static/css/main.e94afe4f.chunk.css.map",
+    "static/js/2.963b37c3.chunk.js.LICENSE.txt": "/memorygame/static/js/2.963b37c3.chunk.js.LICENSE.txt",
+    "static/media/Prison.17c520cc.jpg": "/memorygame/static/media/Prison.17c520cc.jpg",
+    "static/media/index.css": "/memorygame/static/media/background.1ab3f49d.jpg",
+    "static/media/batman.b481f828.jpeg": "/memorygame/static/media/batman.b481f828.jpeg",
+    "static/media/bladerunner.6fbb1e49.jpeg": "/memorygame/static/media/bladerunner.6fbb1e49.jpeg",
+    "static/media/fightclub.93774a86.jpg": "/memorygame/static/media/fightclub.93774a86.jpg",
+    "static/media/ironman.90252406.jpg": "/memorygame/static/media/ironman.90252406.jpg",
+    "static/media/joker.3365df67.jpeg": "/memorygame/static/media/joker.3365df67.jpeg",
+    "static/media/maleficent.b00f6ad1.jpg": "/memorygame/static/media/maleficent.b00f6ad1.jpg",
+    "static/media/matrix.3f4e1b7e.jpg": "/memorygame/static/media/matrix.3f4e1b7e.jpg",
+    "static/media/theassasin.7fc805aa.jpg": "/memorygame/static/media/theassasin.7fc805aa.jpg",
+    "static/media/unnamed.505dcb5c.jpg": "/memorygame/static/media/unnamed.505dcb5c.jpg",
+    "static/media/venom.79a2d32e.jpeg": "/memorygame/static/media/venom.79a2d32e.jpeg",
+    "static/media/wallstreet.049a2476.png": "/memorygame/static/media/wallstreet.049a2476.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a64c027.js",
+    "static/js/2.963b37c3.chunk.js",
+    "static/css/main.e94afe4f.chunk.css",
+    "static/js/main.5cafe3c7.chunk.js"
+  ]
+}
